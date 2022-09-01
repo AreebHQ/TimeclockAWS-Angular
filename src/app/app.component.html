@@ -1,0 +1,19 @@
+<br>
+
+   
+<nav class="navbar navbar-light bg-light container">
+
+   
+  <a class="navbar-brand"><h1><b>TimeClock Application</b></h1> </a>
+  <form class="form-inline">
+    <button *ngIf="!isLoggedIn" routerLink="/" class="btn btn-outline-primary float-right" type="submit">Go to LogIn</button>
+    <button *ngIf="isLoggedIn && showAdminUser" routerLink="/register" class="btn btn-outline-primary float-right" type="submit">Create User</button>
+    <button *ngIf="isLoggedIn"  (click)="logout()" class="btn btn-outline-secondary float-right" type="submit">LogOut</button> 
+  </form>
+</nav>
+
+
+   
+
+
+<router-outlet></router-outlet>
