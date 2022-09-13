@@ -1,27 +1,65 @@
-# TimeClock
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+<h1> TimeClock AWS[Java + Springboot + Bootstrap + Angular + S3]</h1>
+<p>
+<br>
+<br>
+<div class="info"> <font color="#303030">
 
-## Development server
+<br> <br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<br><br></font></div> 
+</p>
+<br><br>
+<br><br>
+<h1>UI - Pages</h1>
 
-## Code scaffolding
+  <br>
+  <h2> Login Page </h2>
+<div class="row">
+  <div class="column">
+    <img src="https://i.ibb.co/YcWbzwc/1.png" alt="SignIn" width="900" height="620">
+  </div>
+</div>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<h2> Home </h2>
+<div class="row">
+  <div class="column">
+    <img src="https://i.ibb.co/j9KK6LG/2.png" alt="SignIn" width="900" height="620">
+  </div>
+</div>
+  
 
-## Build
+  <h2> Functions </h2>
+<div class="row">
+  <div class="column">
+    <img src="https://i.ibb.co/tHbWBSw/3.png" alt="SignIn" width="900" height="620">
+  </div>
+</div>
+  <br>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+  
+    <h2> Create User Page </h2>
+<div class="row">
+  <div class="column">
+    <img src="https://i.ibb.co/5BX0MZQ/4.png" alt="SignIn" width="900" height="620">
+  </div>
+</div>
+  <br>
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+    <h2> Create User Page II </h2>
+<div class="row">
+  <div class="column">
+    <img src="https://i.ibb.co/syqnJ0C/5.png" alt="SignIn" width="900" height="620">
+  </div>
+</div>
+  <br>
 
-## Running end-to-end tests
+  </body>
+  </html>
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
