@@ -9,13 +9,8 @@
 <br>
 <br>
 <div class="info"> <font color="#303030">
-
-<br> <br>
-
-<br><br></font></div> 
+</font></div> 
 </p>
-<br><br>
-<br><br>
 <h1>UI - Pages</h1>
 
   <br>
